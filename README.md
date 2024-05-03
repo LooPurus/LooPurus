@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LooPurus
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on anything and everything all of the time
+I’m currently learning Python and SQL, and looking to collaborate on anything and everything all of the time :)
 
 
 <!---
